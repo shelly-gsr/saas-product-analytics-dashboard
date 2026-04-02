@@ -35,7 +35,7 @@ cd saas-product-analytics-dashboard
 
 ([View the Dashboard](https://public.tableau.com/app/profile/shelly.gsr/viz/ProductPerformanceDashboard_17733328871590/UserAcquistion))
 
-!(preview)(00_data/assets/preview-dashboard.png)
+![preview](00_data/assets/preview-dashboard.png)
 
 ---
 
