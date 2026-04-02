@@ -33,7 +33,9 @@ cd saas-product-analytics-dashboard
 
 ## Example Output
 
-![saas-dashboard](00_data/assets/saas-dashboard.png)
+([View the Dashboard](https://public.tableau.com/app/profile/shelly.gsr/viz/ProductPerformanceDashboard_17733328871590/UserAcquistion))
+
+!(preview)(00_data/assets/preview-dashboard.png)
 
 ---
 
