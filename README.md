@@ -33,7 +33,7 @@ cd saas-product-analytics-dashboard
 
 ## Example Output
 
-![saas-dashboard](images/saas-dashboard.png)
+![saas-dashboard](00_data/assets/saas-dashboard.png)
 
 ---
 
